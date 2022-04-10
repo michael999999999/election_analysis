@@ -16,7 +16,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
-- The candidates were
+- The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
@@ -45,7 +45,7 @@ Voter turnout analysis determined that Denver County easily had the most votes c
 ## Challenge Summary
 Through the course of this audit, a Python script was developed in order to read data from a CSV file, perform calculations on that data, then write that data to a text file. This script was developed with flexibility in mind. Provided the layout for the data set input remains the same, this Python script can be used for any future election, no matter the number of candidates, counties, or voters.
 
-However, should modifications be necessary, there are two examples that can be provided. First, as mentioned previously, I would recommend that the number of registered voters from each county be provided for audit. Just as the results above were determined, a simple mathematical statement could be added to the Python script to find the percentage of registered voters that showed up to the polls in a given election. A second example of how this script could be improved would be to include party affiliation with the provided voting information. Again, with a few simple statements added to the script, this data could show how voters of a particular party voted with respect to their selected candidate.
+However, two examples of modifications (moreso, "improvements") to this Python script are adviseable. First, as mentioned previously, I would recommend that the number of registered voters from each county be provided for audit. Just as the results above were determined, a simple mathematical statement could be added to the script to find the percentage of registered voters that showed up to the polls in a given election. A second example of how this script could be improved would be to include party affiliation with the provided voting information. Again, with a few simple statements added to the script, this data could show how voters of a particular party voted with respect to their selected candidate.
 
 In summation, congratulations to Ms. Diana DeGette on being elected to this congressional seat! The voters of Colorado have overwhelmingly displayed their confidence in your abilities, and it is up to you to represent them to your fullest!
 
